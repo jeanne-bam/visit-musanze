@@ -1,0 +1,102 @@
+body{
+	background-color:wheat;
+}
+.d{
+	margin-top:2cm;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	padding:15px;
+	color:black;
+}
+.x a:hover{
+	color:yellow;
+	text-decoration:none;
+}
+.c a:active{
+	color:green;
+	text-decoration:none;
+}
+.v a:visited{
+	color:blue;
+	text-decoration:none;
+}
+.b a:link{
+	color:gray;
+	text-decoration:none;
+}
+.o{
+	margin-top:3cm;
+	margin-left:10%;
+}
+.p{
+	margin-left:40%;
+	margin-top:-5cm;
+}
+.o fieldset{
+	width:6cm;
+	padding:10px:
+	}
+.p fieldset{
+	width:6cm;
+	padding:10px:
+	}
+.j{
+	margin-top:3cm;
+	margin-left:10%;
+}
+.y{
+	margin-left:40%;
+	margin-top:-8.1cm;
+}
+	
+	
+.i{
+	background-color:#e6f9ff;
+	border:10px solid black;
+	padding:20px;
+	border-radius:4px;
+	height:200px;
+	width:200px;
+	padding-left:50px;
+}
+.u{
+	background-color:red;
+	border:20px solid black;
+	border-radius:4px;
+	margin-left:7.7cm;
+	height:200px;
+	padding-left:50px;
+	width:200px;
+	margin-top:-0.5cm;
+}
+.g{
+	background-color:blue;
+	border:10px solid black;
+	border-radius:4px;
+	margin-left:15.7cm;
+	height:200px;
+	width:200px;
+	padding-left:50px;
+	margin-top:-0.5cm;
+}
+.g a{
+	color:white;
+	margin-left:-1cm;
+}
+.i a:hover{
+	color:white;
+}
+.u a:hover{
+	color:yellow;
+}
+.g a:hover{
+	color:yellow;
+}
+ th,tr,td{
+	padding-left:10px;
+}
+table{
+		border-spacing:10px;
+}
